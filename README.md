@@ -9,7 +9,9 @@ Setup is very simple, and takes a few minutes.
 ## Installation
 
 Make sure you have installed on your environment Git, Node, and npm.
+
 This code is running on AWS Lambda function, so you'll need an AWS account as well.
+
 Ultimately this code sends the digest to Slack, so make sure you got a [incoming webhook URL](https://api.slack.com/messaging/webhooks) set.
 
 ```bash
